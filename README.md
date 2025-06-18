@@ -34,7 +34,6 @@ PRODIGY_WD_Task1/
 Thanks to **Prodigy InfoTech** for this opportunity to learn and showcase my frontend skills.
 
 ## 🔗 Connect with Me
-- Portfolio: [Your Portfolio URL]
 - Email: [hannahpetrina@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/hannah-petrina-554889350/]
 - GitHub: [https://github.com/hannahpet3](https://github.com/hannahpet3)

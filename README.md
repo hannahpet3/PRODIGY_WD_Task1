@@ -3,7 +3,7 @@
 This is my submission for **Task 01 - Responsive Landing Page** as part of my internship with **Prodigy InfoTech**.
 
 ## 🌐 Live Demo
-🔗 [View Project](https://yourusername.github.io/PRODIGY_WD_Task1/) *(Replace with your GitHub Pages link)*
+🔗 [View Project](https://hannahpet3.github.io/PRODIGY_WD_Task1/) 
 
 ## 📌 Features
 - ✅ Responsive Design (Mobile-Friendly)
@@ -35,8 +35,8 @@ Thanks to **Prodigy InfoTech** for this opportunity to learn and showcase my fro
 
 ## 🔗 Connect with Me
 - Portfolio: [Your Portfolio URL]
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+- Email: [hannahpetrina@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/hannah-petrina-554889350/]
+- GitHub: [https://github.com/hannahpet3](https://github.com/hannahpet3)
 
 > ⭐ If you like this project, give it a star and follow for more!

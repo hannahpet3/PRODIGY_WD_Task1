@@ -4,29 +4,73 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Prodigy Landing Page</title>
-  <link rel="stylesheet" href="style.css" />
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      scroll-behavior: smooth;
+    }
+
+    nav {
+      background: #00000099;
+      color: white;
+      padding: 1rem;
+      position: fixed;
+      width: 100%;
+      top: 0;
+    }
+
+    header {
+      height: 100vh;
+      background: linear-gradient(to right, #1f1f1f, #14404f);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-align: center;
+      padding: 2rem;
+    }
+
+    button {
+      padding: 0.7rem 1.5rem;
+      font-size: 1rem;
+      background-color: aqua;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    section {
+      padding: 4rem 2rem;
+    }
+  </style>
 </head>
 <body>
-  <header id="navbar">
-    <nav>
-      <div class="logo">Prodigy</div>
-      <ul class="nav-links">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Features</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </nav>
+
+  <!-- Navbar -->
+  <nav>
+    <strong>Prodigy</strong> Home | Features | About | Contact
+  </nav>
+
+  <!-- Hero Section -->
+  <header>
+    <h1>Welcome to Prodigy</h1>
+    <p>Innovate. Design. Deliver.</p>
+    <a href="#features">
+      <button>Get Started</button>
+    </a>
   </header>
 
-  <section class="hero">
-    <div class="hero-text">
-      <h1>Welcome to Prodigy</h1>
-      <p>Innovate. Design. Deliver.</p>
-      <a href="#" class="btn">Get Started</a>
-    </div>
+  <!-- Features Section -->
+  <section id="features">
+    <h2>Features</h2>
+    <ul>
+      <li>Responsive Design</li>
+      <li>Smooth Scroll</li>
+      <li>Glassmorphism Navbar</li>
+    </ul>
   </section>
 
-  <script src="script.js"></script>
 </body>
 </html>

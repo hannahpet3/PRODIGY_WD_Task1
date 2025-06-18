@@ -3,7 +3,7 @@
 This is my submission for **Task 01 - Responsive Landing Page** as part of my internship with **Prodigy InfoTech**.
 
 ## 🌐 Live Demo
-🔗 [View Project](https://hannahpet3.github.io/PRODIGY_WD_Task1/) 
+🔗 [View Project](https://hannahpet3.github.io/PRODIGY_WD_Task1/)
 
 ## 📌 Features
 - ✅ Responsive Design (Mobile-Friendly)
